@@ -5,3 +5,6 @@ print(a)
 
 b = 2
 print(b)
+
+c = "hello wrold"
+print(c)
